@@ -1,0 +1,19 @@
+{
+  "name": "workingday-node",
+  "version": "1.0.0",
+  "description": "使用钉钉 Webhook 定时发送工作日提醒。。。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dayjs": "^1.11.0",
+    "dotenv": "^16.0.0",
+    "node-schedule": "^2.1.0"
+  }
+}
