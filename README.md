@@ -10,5 +10,5 @@ holidayApi=`https://timor.tech/api/holiday/info/ 获取节假日信息`
 
 ## 效果展示
 
-![节假日信息]("./assets/img/d1.png")
-![天气情况]("./assets/img/d1.png")
+![节假日信息]("https://raw.githubusercontent.com/coder-zhuzm/workingDay-Node/main/assets/img/d1.png")
+![天气情况]("https://raw.githubusercontent.com/coder-zhuzm/workingDay-Node/main/assets/img//d2.png")
